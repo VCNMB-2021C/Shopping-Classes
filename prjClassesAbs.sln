@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjGenericClasses", "prjGen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmShoesGeneric", "frmShoesGeneric\frmShoesGeneric.csproj", "{4BC56C40-7906-4B16-9D44-0F44CFEAA1BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjDelegatesBasics", "prjDelegatesBasics\prjDelegatesBasics.csproj", "{179F2FD6-BED4-49EB-8C62-42CE5AA82639}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4BC56C40-7906-4B16-9D44-0F44CFEAA1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BC56C40-7906-4B16-9D44-0F44CFEAA1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BC56C40-7906-4B16-9D44-0F44CFEAA1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179F2FD6-BED4-49EB-8C62-42CE5AA82639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179F2FD6-BED4-49EB-8C62-42CE5AA82639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179F2FD6-BED4-49EB-8C62-42CE5AA82639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179F2FD6-BED4-49EB-8C62-42CE5AA82639}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
